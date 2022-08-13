@@ -1,6 +1,6 @@
 ## 🙋‍♀️Hello There!
 
-### 🏫I'm Pre-final year IT student at IIIT Bhubaneswar, Odisha.
+### 🏫I'm a Pre-final year IT student at IIIT Bhubaneswar, Odisha.
 ### 💻I'm currently learning C++ and Frontend Web Development.
 ### 📫Reach out to me at ipshu.satapathy@gmail.com
 
